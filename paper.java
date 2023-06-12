@@ -1,5 +1,6 @@
 //C109151149施騏驥 到此一遊(作業3) 
 //C109151168洪濰阜 再接著遊(merge)
+//C109151146李冠誼 再再接著遊(merge)
 package test;
 import java.io.*;
 
@@ -47,7 +48,7 @@ public class paper
 		return Integer.parseInt(bk);
 	}
 	public static int intwhoWin(int computer, int gamers) {
-		int bk=0;
+		int bk = 0;
 		switch (gamers){
 			case(1):
 				if(computer==1) {
